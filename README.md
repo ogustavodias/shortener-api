@@ -131,8 +131,8 @@ Location: https://www.google.com
 
 ## Tecnologias
 
-* Linguagem: TBD
-* Framework: TBD
+* Linguagem: Java 21
+* Framework: Spring
 * Banco de Dados: PostgreSQL
 * API: REST
 
